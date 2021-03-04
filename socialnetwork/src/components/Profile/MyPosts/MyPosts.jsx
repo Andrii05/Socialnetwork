@@ -12,6 +12,12 @@ const MyPosts = () => {
             </div>
             <Post message='Hellow to everyone!' like='❤ 360'/>
             <Post message="It`s my first post" like='❤ 425'/>
+            <Post message='Hellow to everyone!' like='❤ 360'/>
+            <Post message="It`s my first post" like='❤ 425'/>
+            <Post message='Hellow to everyone!' like='❤ 360'/>
+            <Post message="It`s my first post" like='❤ 425'/>
+            <Post message='Hellow to everyone!' like='❤ 360'/>
+            <Post message="It`s my first post" like='❤ 425'/>
         </div>
     );
 }
