@@ -1,12 +1,22 @@
 .nav {
     grid-area: n;
-    background-color: lightgreen;
+    background-color: lightpink;
+    padding: 15px;
 }
 
-.item {
-    color: yellow;
+.item a {
+    color: teal;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
 }
 
-.item.active {
+.item .active {
+    font-size: 22px;
+    text-decoration: none;
     color: white;
 }
+
+
+
+

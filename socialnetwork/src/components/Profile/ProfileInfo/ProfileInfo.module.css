@@ -1,0 +1,11 @@
+.discriptionBlock {
+    padding: 10px;
+}
+
+.userDescription {
+    font-weight: bold;
+}
+.discriptionBlock img {
+    height: 300px;
+    width: 300px;
+}

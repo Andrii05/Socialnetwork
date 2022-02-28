@@ -1,8 +1,8 @@
 .content {
     grid-area: c;
-    background-color: aquamarine;
+    background-color: lightskyblue;
 }
 .content img {
-    height: 200px;
+    height: 400px;
     width: 100%;
 }
